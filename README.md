@@ -5,7 +5,7 @@ aplicacion de consola NODEJS, la cual hace uso de dos API para su funcionamiento
 
 `OPEN WEATHER`: https://openweathermap.org/
 
-##Para instalar y correr codigoCancel changes
+##Para instalar y correr codigo
 `npm install`
 
 `npm start`
