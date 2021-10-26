@@ -1,10 +1,11 @@
 # InfoPlaces
 aplicacion de consola NODEJS, la cual hace uso de dos API para su funcionamiento
+
 `MAPBOX`: https://www.mapbox.com/
 
 `OPEN WEATHER`: https://openweathermap.org/
 
-##Para instalar y correr codigo
+##Para instalar y correr codigoCancel changes
 `npm install`
 
 `npm start`
